@@ -7,3 +7,4 @@ for i in range(loop+1):
     print(i*"!",end=",")
     print("hello hot-fix")
     print("hello master commit")
+    print("hello hot-fix test")

@@ -9,3 +9,4 @@ for i in range(loop+1):
     print("hello master commit")
     print("hello hot-fix test")
     print("hello ssh git push test")
+    print("remote modify test")
